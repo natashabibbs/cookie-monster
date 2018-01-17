@@ -1,0 +1,61 @@
+#navbar{
+    height: 200px;
+    width: 100%;
+    text-align: center;
+}
+
+li {
+  list-style: none;
+  font-size: 200%;
+}
+
+#top {
+  text-align: center;
+  
+}
+
+#middle {
+  text-align: center;
+}
+
+#bottom {
+  text-align: center;
+}
+
+img{
+  height: 350px;
+  width: 350px;
+}
+
+#cookie1{
+   padding: 55px;
+}
+
+#cookie2{
+  padding: 55px;
+}
+
+#cookie3{
+  padding: 55px;
+}
+
+#cookie4{
+  padding: 55px;
+}
+
+body{
+  font-family: 'Kavivanar', cursive;
+  height: 180px;
+  color: brown;
+}
+
+
+#middle {
+  margin: 40px;
+  border: 10px solid rgb(238, 126, 51);
+  outline: rgb(230, 73, 73) solid 10px;
+} 
+
+h3 {
+   font-size: 200%;
+}
