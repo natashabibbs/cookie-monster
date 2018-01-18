@@ -2,11 +2,19 @@
     height: 200px;
     width: 100%;
     text-align: center;
+    
 }
 
 li {
   list-style: none;
   font-size: 200%;
+  color: rgb(230, 73, 73);
+}
+
+li :visited {
+  list-style: none;
+  font-size: 200%;
+  color: rgb(230, 73, 73);
 }
 
 #top {
@@ -58,4 +66,29 @@ body{
 
 h3 {
    font-size: 200%;
+}
+
+.button{
+    font-size: 15px;
+    cursor: pointer;
+    padding: 15px;
+    border-radius: 70px;
+    border: solid rgb(230, 73, 73);
+    background-color: rgb(238, 126, 51)
+}
+
+#icon1:hover{
+  opacity: 0.7;
+}
+
+#icon2:hover{
+  opacity: 0.7;
+}
+
+#icon3:hover{
+  opacity: 0.7;
+}
+
+marquee{
+   font-size: 250%;
 }
